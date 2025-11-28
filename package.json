@@ -1,0 +1,20 @@
+{
+  "name": "bookmarkit",
+  "version": "1.0.0",
+  "description": "Manage your book library and show off your book collection to your friends and the world!",
+  "homepage": "https://github.com/ThatOneYohi/BookMarkIt#readme",
+  "bugs": {
+    "url": "https://github.com/ThatOneYohi/BookMarkIt/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThatOneYohi/BookMarkIt.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
